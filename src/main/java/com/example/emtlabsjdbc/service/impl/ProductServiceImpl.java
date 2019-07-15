@@ -1,7 +1,8 @@
-package com.example.emtlabsjdbc.service;
+package com.example.emtlabsjdbc.service.impl;
 
 import com.example.emtlabsjdbc.model.Product;
 import com.example.emtlabsjdbc.repository.ProductRepository;
+import com.example.emtlabsjdbc.service.ProductService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
